@@ -1,6 +1,4 @@
-# An-Independent-T-TEST
-
-## An Analysis of Number of Firms in Metropolitan Areas by Owner Sex
+# Analyzing gender inequality in firm ownership: A study of 101 metropolitan cities in the USA
 
 In this study, firm ownership in 101 metropolitan cities with more than 50,000 firms in the USA was analyzed by gender.
 
